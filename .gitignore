@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Test result artifacts
+Test_Results/
+
+# Environment
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# Local test data
+Email_to_del.csv
+
+# Tool caches
+.pytest_cache/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Microsoft Office temporary files
+~$*
+~WRL*.tmp

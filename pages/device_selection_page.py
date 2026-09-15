@@ -1,0 +1,5 @@
+XPATH_HEADER = '//*[@id="vmo-onboarding-page"]/div/div/div/div/div/div[2]/div[1]/h2/span'
+XPATH_HEADER_POPUP = '//*[@id="vmo-onboarding-page"]/div/div/div/div/div/div[2]/div[3]/div[2]/div/div[1]/h2'
+XPATH_CHOOSE_IPHONE = '//*[@id="vmo-onboarding-page"]/div/div/div/div/div/div[2]/div[2]/div[1]'
+XPATH_CHOOSE_NO_IPHONE = '//*[@id="vmo-onboarding-page"]/div/div/div/div/div/div[2]/div[2]/div[2]'
+XPATH_POPUP_YES_RESIDENT = '/html/body/div[9]/div/div[2]/div/div[2]/div/div/div/div/div/div[2]/div[3]/div[2]/div/div[2]/div/div/div/button[2]'

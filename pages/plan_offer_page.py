@@ -1,0 +1,6 @@
+XPATH_HEADER = '//*[@id="vmo-onboarding-page"]/div/div/div/div/div/div[2]/div/div/div/div[2]/h3'
+XPATH_HEADER_HOME_INTERNET = '//*[@id="vmo"]/div[1]/div[2]/div/div/div/div/div/div[2]/div/div/div[2]/h3'
+XPATH_STAY_MONTHLY_BTN = '//*[@id="vmo-onboarding-page"]/div/div/div/div/div/div[2]/div/div/div/div[3]/div[1]/button'
+XPATH_STAY_MONTHLY_HOME_INTERNET_BTN = '//*[@id="vmo"]/div[1]/div[2]/div/div/div/div/div/div[2]/div/div/div[3]/div[1]/button'
+XPATH_GO_12_MONTH_HOME_INTERNET_BTN = '//*[@id="vmo"]/div[1]/div[2]/div/div/div/div/div/div[2]/div/div/div[3]/div[2]/button'
+XPATH_GO_12_MONTH_BTN = '//*[@id="vmo-onboarding-page"]/div/div/div/div/div/div[2]/div/div/div/div[3]/div[2]/button'

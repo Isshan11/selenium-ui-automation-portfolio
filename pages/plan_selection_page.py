@@ -1,0 +1,15 @@
+
+XPATH_HEADER = '//*[@id="vmo-plans-page"]/div[1]/div[1]/div/h2'
+XPATH_HEADER_TOURIST_PLAN = '//*[@id="vmo-plans-page"]/div[1]/div[1]/h1'
+XPATH_1MONTH_PLAN_BTN = '//*[@id="2"]'
+XPATH_6MONTH_PLAN_BTN = '//*[@id="4"]'
+XPATH_12MONTH_PLAN_BTN = '//*[@id="5"]'
+XPATH_CONTINUE_BTN = '//*[@id="vmo-plans-page"]/div[1]/div[2]/div/div[3]/div'
+XPATH_CONTINUE_TOURIST_BTN = '//*[@id="vmo-plans-page"]/div[1]/div[3]/div'
+XPATH_STARTER_PLANS_BTN = '//*[@id="plantabs"]/div[1]/div/ul/li[2]'
+
+XPATH_YOUTH_PLAN_HEADER = '//*[@id="plantabs"]/div[2]/p[1]'
+XPATH_SEE_PLANS_BTN = '//*[@id="plantabs"]/div[2]/div[2]/button'
+XPATH_STARTER_PLANS_HEADER = '//*[@id="tab2"]/div/h4'
+XPATH_35_MONTHLY_BTN = '//*[@id="tab2"]/div/div/div[1]/div[1]/div/div/div/div[1]/div/div[3]/div'
+XPATH_50_MONTHLY_BTN = '//*[@id="tab2"]/div/div/div[1]/div[1]/div/div/div/div[2]/div/div[3]/div'

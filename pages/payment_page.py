@@ -1,0 +1,12 @@
+XPATH_HEADER = '//*[@id="vmo-onboarding-page"]/div/div/div/div/div/div/div[2]/div[2]/h2/span'
+XPATH_AGREE_TERMS_BTN = '//*[@id="vmo-onboarding-page"]/div/div/div/div/div/div/div[2]/div[4]/div[1]/div[1]/div'
+XPATH_ADD_TO_REGISTRY_BTN = '//*[@id="vmo-onboarding-page"]/div/div/div/div/div/div/div[2]/div[4]/div[1]/div[2]/div'
+XPATH_CONFIRM_REGISTRY_BTN = '//*[@id="vmo-onboarding-page"]/div/div/div/div/div/div/div[2]/div[4]/div[1]/div[3]/div[2]/div/div[2]/div/div/div/div/button'
+XPATH_CHOOSE_PAYMENT_BTN = '//*[@id="vmo-onboarding-page"]/div/div/div/div/div/div/div[2]/div[4]/div[2]/div[1]/button'
+
+XPATH_HEADER_HOME_INTERNT = '//*[@id="vmo"]/div[1]/div[2]/div/div/div/div/div/div[2]/div[1]/h2/span'
+XPATH_GEOLOCKED_CONFIRM_BTN = '//*[@id="vmo"]/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div[1]/div/div[1]/div[1]/div/div/div/div[3]/div'
+XPATH_AGREE_TERMS_HOME_INTERNET_BTN = '//*[@id="vmo"]/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div[2]/div[1]/div[2]/div'
+XPATH_ADD_TO_REGISTRY_HOME_INTERNET_BTN = '//*[@id="vmo"]/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div[2]/div[1]/div[3]/div'
+XPATH_CONFIRM_REGISTRY_HOME_INTERNET_BTN = '//*[@id="vmo"]/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div[2]/div[1]/div[4]/div[2]/div/div[2]/div/div/div/div/button'
+XPATH_CHOOSE_PAYMENT_HOME_INTERNET_BTN = '//*[@id="vmo"]/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div[2]/div[2]/button'

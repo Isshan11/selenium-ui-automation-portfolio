@@ -1,0 +1,7 @@
+XPATH_HEADER = '//*[@id="vmo"]/div/div[1]/div/div[2]/div/div/div/h1'
+XPATH_HEADER_REASON_TO_LOVE = '//*[@id="scroll_to_here"]/div/h2'
+XPATH_HEADER_BUILD_A_PLAN_HEADER = '//*[@id="vmo"]/div/div[1]/div/div[4]/div/h2'
+XPATH_GET_STARTED_BTN = '//*[@id="vmo-get-started-join"]'
+XPATH_JOIN_US_BTN = '//*[@id="vmo"]/div/header/div[2]/div/div[2]/div[3]/div[3]/div/button'
+XPATH_GET_STARTED_2_BTN = '//*[@id="vmo-get-started-benefits"]'
+XPATH_BUILD_YOUR_PLAN_BTN = '//*[@id="vmo-get-started-build"]'

@@ -1,0 +1,2 @@
+XPATH_HEADER = '//*[@id="vmo"]/div[1]/div[2]/div/div/div/div/div/div[2]/div/div[1]/div/div[1]/div[1]/div[1]/h4'
+XPATH_CONTINUE_BTN = '//*[@id="vmo"]/div[1]/div[2]/div/div/div/div/div/div[2]/div/div[1]/div/div[1]/div[1]/div[2]/button'
