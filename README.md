@@ -7,7 +7,7 @@ A portfolio edition of the Python and Selenium website-testing suite I built dur
 - Built and implemented the Python/Selenium automation suite for checking Virgin Mobile UAE's website pages and customer flows.
 - Organized reusable page selectors and test journeys, with shared checks for expected headings, page transitions, and load timing.
 - Added CSV result reporting and screenshot evidence for failed checkpoints.
-- Integrated optional Jira Xray result updates, comments, and evidence uploads.
+- Integrated Jira Xray result updates, comments, and evidence uploads.
 
 The public portfolio copy uses environment-based configuration instead of the company's live target and private integration values. It demonstrates the implementation without automatically running tests against Virgin Mobile's production website.
 
