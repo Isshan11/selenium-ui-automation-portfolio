@@ -1,6 +1,15 @@
-# Selenium UI Automation Portfolio
+# Virgin Mobile UAE — Selenium Website UI Automation
 
-A portfolio edition of an end-to-end Selenium automation project covering mobile-plan, device, tourist-plan, and home-internet customer journeys. The suite follows a page-object structure, validates each page transition, records timing and failure evidence, and can report results to Jira Xray.
+A portfolio edition of the Python and Selenium website-testing suite I built during my Virgin Mobile UAE internship. It automates page-by-page checks across 21 customer journeys covering mobile plans, devices, tourist plans, and home internet. The suite validates navigation and expected page content, records load timing and failure evidence, and can report results to Jira Xray.
+
+## My contribution
+
+- Built and implemented the Python/Selenium automation suite for checking Virgin Mobile UAE's website pages and customer flows.
+- Organized reusable page selectors and test journeys, with shared checks for expected headings, page transitions, and load timing.
+- Added CSV result reporting and screenshot evidence for failed checkpoints.
+- Integrated optional Jira Xray result updates, comments, and evidence uploads.
+
+The public portfolio copy uses environment-based configuration instead of the company's live target and private integration values. It demonstrates the implementation without automatically running tests against Virgin Mobile's production website.
 
 ## What this project demonstrates
 
